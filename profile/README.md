@@ -1,7 +1,4 @@
-# AO20 - Organizacion oficial de github.
-Aqui encontraras todos los recursos, codigos y herramientas necesarias para crear tu propio AO.
-Todos estan invitados a hacer Pull Request para agregar contenido.
+# Nithegron Argentum Online
 
-<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1956740/header.jpg"></img>
+<img src="https://i.imgur.com/9OigUb5.png"></img>
 
-# Por favor considera apoyarnos en https://www.patreon.com/nolandstudios
